@@ -1,0 +1,72 @@
+abjure
+abnegate
+abstain
+avoid
+ban
+banish
+bar
+begrudge
+belie
+blackball
+blacklist
+cancel
+cast out
+confute
+contradict
+contravene
+controvert
+counter
+debar
+decline
+deny
+deprive
+destroy
+disaffirm
+disagree
+disallow
+disavow
+disbelieve
+discard
+disclaim
+discredit
+dismiss
+disown
+disprove
+dispute
+disqualify
+dodge
+doubt
+embargo
+enjoin
+eschew
+evade
+excommunicate
+forswear
+gainsay
+impugn
+misbelieve
+negate
+nullify
+oppose
+ostracize
+pass up
+prohibit
+rebuff
+rebut
+recant
+refrain
+refuse
+refute
+reject
+renounce
+repudiate
+revoke
+rule out
+shut out
+snub
+spurn
+take back
+veto
+vitiate
+vote down 
+withhold
